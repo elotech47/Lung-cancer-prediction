@@ -78,7 +78,7 @@ def main():
         st.image(img, width=600,caption="Deeplearning based Screening")
         st.write("This program is a computer application that uses Deep Neural Network to diagnose for Lung Cancer using X_ray images of patients")
         #st.write("One of the major issues we have combacting the corona virus pandemic is the slow testing process")
-        st.write("Here we created this easy to use deep learning program with 97 percent testing accuracy.")
+        st.write("Here we created this easy to use deep learning program  testing accuracy.")
         st.write( "This program would support doctors when detecting this type of cancer")
         #st.write("This programs uses Deep Transfer learning and X-ray images to detect lung cancer from chest X-ray radiograph.")
         st.write("")
